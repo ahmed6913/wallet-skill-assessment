@@ -1,6 +1,7 @@
 # Wallet Skill Assessment – Web3 Frontend Task
 
 This project was built as part of a skill assessment for a Blockchain/Web3 Developer role.
+- Loom video - https://www.loom.com/share/4fc6e301f72d4b2594f3467415bacc6a?sid=beddcd93-6980-492e-90f6-1b990ce43bc7
 
 ## ✅ Tasks Completed
 

@@ -34,7 +34,8 @@ This project was built as part of a skill assessment for a Blockchain/Web3 Devel
 
 ## 📸 Preview
 
-![Preview](./screenshot.png) <!-- Add your screenshot file here -->
+<img width="1919" height="964" alt="Screenshot 2025-07-12 180604" src="https://github.com/user-attachments/assets/be47e313-cbfb-4709-b2b4-998508101bbf" />
+
 
 ## 🚀 Getting Started
 

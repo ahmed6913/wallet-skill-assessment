@@ -40,6 +40,8 @@ This project was built as part of a skill assessment for a Blockchain/Web3 Devel
 ## 🚀 Getting Started
 
 ```bash
+
+- Make sure you refer to package.json file for installing dependency also .env file 
 npm install
 npm start
 
